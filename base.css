@@ -47,6 +47,13 @@ table tbody tr:nth-child(even) td{
     text-decoration: none;
     color: black;
 }
+form{
+    line-height: 35px;
+}
+form button{
+    font-size: medium;
+    
+}
 .header {
     background-color: #a9dce3;
     min-height: 150px;
